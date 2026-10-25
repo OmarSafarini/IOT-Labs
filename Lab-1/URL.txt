@@ -1,1 +1,2 @@
-https://thingspeak.mathworks.com/channels/3549677/private_show
+ThingSpeak : https://thingspeak.mathworks.com/channels/3549677
+Wokwi : https://wokwi.com/projects/478865360641103873
